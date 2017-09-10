@@ -2,6 +2,6 @@ package com.learningapp.trivia.model;
 
 public class SampleJenkinGitTest {
 	
-	private int a=7;
+	private int a=8;
 
 }
